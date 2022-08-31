@@ -8,10 +8,12 @@ The purpose of this assignment was to learn how to extract specific Data Points 
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+
 -The months of May, June, and July had the highest rate of successful campaigns
 -Throughout all the months, more campaigns were successful than failed
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+
 -The Goal Ranges in which there were more failed than successful include: 15k-40k and 40k-50k+
 -Campaigns with goals less than 5k had the most success rate
 ### Challenges and Difficulties Encountered
